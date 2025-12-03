@@ -10895,7 +10895,7 @@ p {
   letter-spacing: 0.0625em;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #ffc800;
+  color: #ffaff8;
 }
 
 @media (min-width: 992px) {
@@ -10992,7 +10992,7 @@ header.masthead .masthead-heading {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: rgba(255, 175, 248, 0.9);
+  background: rgba(255, 175, 248, 0.7);
   align-items: center;
   justify-content: center;
   opacity: 0;
