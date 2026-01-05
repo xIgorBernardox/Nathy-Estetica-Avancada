@@ -11031,8 +11031,8 @@ header.masthead .masthead-heading {
   text-align: center;
 }
 .portfolio-modal .modal-content h2, .portfolio-modal .modal-content .h2 {
-  font-size: 3rem;
-  line-height: 3rem;
+  font-size: 1.4rem;
+  line-height: 1.4rem;
 }
 .portfolio-modal .modal-content p.item-intro {
   font-style: italic;
@@ -11254,7 +11254,7 @@ section#contact {
   background-size: cover;
 }
 section#contact .section-heading {
-  color: #fff;
+  color: #212529;
 }
 section#contact form#contactForm .form-group {
   margin-bottom: 1.5rem;
